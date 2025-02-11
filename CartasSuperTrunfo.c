@@ -14,7 +14,7 @@ int main() {
     printf("Digite o nome da Cidade:\n");
     scanf("%s ", &nome);
     
-    printf(" Nome cidade: %s\n", nome);
+    printf(" Nome cidade: %s", nome);
 
     //printf("FIM!!!!")
 
