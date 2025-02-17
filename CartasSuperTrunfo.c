@@ -23,10 +23,10 @@ int main(){
     printf("Digite a area total em m²: \n");
     scanf("%f", &area);
 
-    printf(">>Cidade: %d\n ", codigo);
-    printf(">>Nome da cidade: %s\n", nome_cidade);
-    printf(">>População: %d\n", populacao);
-    print("Area total em m²\n");
+    printf("Codigo Cidade: %d\n ", codigo);
+    printf("Nome da cidade: %s\n", nome_cidade);
+    printf("População: %d\n", populacao);
+    printf("Area total em m² %f\n", area);
 
 
 
